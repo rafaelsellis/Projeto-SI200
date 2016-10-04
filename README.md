@@ -1,2 +1,2 @@
 # Projeto-SI200
-Detectar leite adulterado analizando relatórios
+Trabalho escolar - Sistema detector de leite adulterado por meio de análise de relatórios
